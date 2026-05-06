@@ -35,6 +35,7 @@ Scalability: The schema supports extension into larger datasets and enterprise�
 
 schema.sql → Table creation scripts with comments
 queries.sql → Analytical queries with documentation
+triggers.sql → Database triggers for automation and integrity
 diagram.mwb → MySQL Workbench ERD diagram (editable source)
 diagram.png → Exported ERD image for quick viewing
 README.md → Project overview and usage notes
